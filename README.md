@@ -6,4 +6,4 @@ The analyses focused on examining distributions of variables such as gender, age
 
 These visualizations provided valuable insights into which demographic groups could be targeted in future business strategies and which geographic markets might require more focus. Tailored marketing strategies based on age groups and gender distributions could prove useful for identifying growth opportunities.
 
-Overall, this project has facilitated the correction of data gaps and the extraction of key user insights through visualizations. The findings can be utilized to optimize marketing strategies and gain a better understanding of customer segments, ultimately supporting improved decision-making and business performance.
+Overall, this project has facilitated the correction of data gaps and the extraction of key user insights through visualizations. The findings can be utilized to optimize marketing strategies and gain a better understanding of customer segments, ultimately supporting improved decision-making and business performance.     
